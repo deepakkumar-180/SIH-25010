@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:24/9/2025
-## Register Number:
-## Name:
+## Register Number:25016457
+## Name:s.deepakkumar
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
