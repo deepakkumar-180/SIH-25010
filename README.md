@@ -61,7 +61,10 @@ Agriculture, FoodTech & Rural Development
 
 </li>
 <li>Methodology: Develop a user-friendly interface, integrate with weather and market data APIs, and train AI models for crop advisory and pest/disease detection.
- <b>![Technical Approach](image-2.png)</b></li></ul>
+ <</li></ul>
+  
+ <img><img width="754" height="684" alt="Screenshot 2025-09-30 071224" src="https://github.com/user-attachments/assets/e8a219a9-c133-4eae-9ee4-234761f07ceb" />
+
 
 ## Feasibility and Viability
 <h3>FESAIBILITY AND VIABILITY</h3>
